@@ -10,8 +10,15 @@ This gives some basic info but what about the light settings? How can I turn the
 So here goes what I found  nd: 
 
 Fn + X = turn lights on and off 
-Fn + [] = change light effects 
+
+Fn + [] = change light effects
+
 Fn + up and down arrows = change brightness of rgb
-Fn + left and right = change light speed (if applicable) 
+
+Fn + left and right = change light speed (if applicable)
+
 Fn + Alt + Page Up or Page Down = change color 
+
 Fn + D + Enter = Reset to default settings 
+
+Fn + Q, W, or E = Select which bluetooth device to pair 
