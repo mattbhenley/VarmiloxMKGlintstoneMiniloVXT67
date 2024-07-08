@@ -23,4 +23,6 @@ Fn + D + Enter = Reset to default settings
 
 Fn + Page Up = Fn Lock
 
+Fn + Alt + Up and Down Arrow = Logo backlight
+
 Fn + Q, W, or E = Select which bluetooth device to pair 
