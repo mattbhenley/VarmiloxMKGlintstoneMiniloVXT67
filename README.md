@@ -21,4 +21,6 @@ Fn + Alt + Page Up or Page Down = change color
 
 Fn + D + Enter = Reset to default settings 
 
+Fn + Page Up = Fn Lock
+
 Fn + Q, W, or E = Select which bluetooth device to pair 
