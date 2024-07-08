@@ -26,3 +26,7 @@ Fn + Page Up = Fn Lock
 Fn + Alt + Up and Down Arrow = Logo backlight
 
 Fn + Q, W, or E = Select which bluetooth device to pair 
+
+Fn + Delete for 3 seconds = turn off Bluetooth 
+
+Fn + Insert for 3 seconds = turn on Bluetooth
