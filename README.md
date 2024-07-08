@@ -7,7 +7,7 @@ Provided by Varmilo
 
 This gives some basic info but what about the light settings? How can I turn them off? Can I change the color? 
 
-So here goes what I found  nd: 
+## So here goes what I found: (so far) 
 
 Fn + X = turn lights on and off 
 
